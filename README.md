@@ -39,13 +39,3 @@ Cada modelo puede ejecutarse en Jupyter Notebook:
 - **Jerárquico**: `Hierarchical.ipynb`
 
 Sigue las instrucciones dentro de cada notebook para ajustar los parámetros y evaluar los resultados.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si tienes ideas para mejorar los modelos o agregar nuevas funcionalidades, no dudes en crear un issue o enviar un pull request.
-
----
-
-### Licencia
-
-Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
