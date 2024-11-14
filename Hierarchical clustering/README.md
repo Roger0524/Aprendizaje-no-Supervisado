@@ -28,6 +28,6 @@ Esta información ayuda a orientar campañas de marketing más personalizadas y 
 
 Para ejecutar el modelo, abre el archivo `Hierarchical.ipynb` en Jupyter Notebook o ejecuta el script en formato `.py`. Sigue las instrucciones para ajustar los parámetros y visualizar los resultados en un dendrograma y gráficos de dispersión.
 
-## Visualización y Resultados
+## Resultados y Visualizacion
 
 El modelo proporciona un dendrograma que permite visualizar la estructura jerárquica de los clústeres, y un gráfico de dispersión que ilustra la segmentación en función de "Ingreso Anual" y "Puntaje de Gasto".
