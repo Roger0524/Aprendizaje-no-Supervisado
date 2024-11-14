@@ -37,5 +37,3 @@ Estos modelos son útiles para crear estrategias de marketing dirigidas, tales c
 Cada modelo puede ejecutarse en Jupyter Notebook:
 - **K-means**: `K-means.ipynb`
 - **Hierarchical**: `Hierarchical.ipynb`
-
-Sigue las instrucciones dentro de cada notebook para ajustar los parámetros y evaluar los resultados.
