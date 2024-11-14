@@ -1,4 +1,4 @@
-# Modelos de Clustering para "Customer Segmentation"
+# Modelos de Clustering
 
 Este repositorio contiene dos modelos de clustering, **K-means** y **Jerárquico**, implementados para segmentar clientes basándose en sus características de "Ingreso Anual" y "Puntaje de Gasto". La segmentación permite identificar diferentes patrones de comportamiento, ayudando a crear estrategias de marketing y personalización de servicios más efectivas.
 
