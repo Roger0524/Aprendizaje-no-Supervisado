@@ -31,8 +31,3 @@ Para ejecutar el modelo, simplemente corre el archivo `K-means.ipynb` en Jupyter
 ## Resultados y Visualización
 
 Los resultados se presentan gráficamente, mostrando la distribución de los clústeres en un gráfico de dispersión de "Ingreso Anual" vs. "Puntaje de Gasto". Esto facilita la interpretación de los patrones de comportamiento de los clientes en función de su posición en cada clúster.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, por favor, crea un issue o envía un pull request.
-
