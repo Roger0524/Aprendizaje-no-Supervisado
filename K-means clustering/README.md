@@ -1,6 +1,6 @@
 # K-means Clustering
 
-Este repositorio contiene la implementación de un modelo de clustering K-means, utilizado para segmentar clientes en función de variables relevantes como el "Ingreso Anual" y el "Puntaje de Gasto". Este enfoque ayuda a identificar patrones de comportamiento en grupos de clientes, optimizando estrategias de marketing y personalización de servicios.
+Contiene la implementación de un modelo de clustering K-means, utilizado para segmentar clientes en función de variables relevantes como el "Ingreso Anual" y el "Puntaje de Gasto". Este enfoque ayuda a identificar patrones de comportamiento en grupos de clientes, optimizando estrategias de marketing y personalización de servicios.
 
 ## Descripción del Modelo
 
