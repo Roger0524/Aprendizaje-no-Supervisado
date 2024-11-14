@@ -14,11 +14,11 @@ Ambos modelos se evaluaron con las siguientes métricas:
 
 - **Coeficiente de Silhouette**: Mide la cohesión y separación de los clústeres. Valores cercanos a 1 indican buenos resultados de segmentación.
   - K-means: 0.63
-  - Jerárquico: 0.62
+  - Hierarchical: 0.62
 
 - **Índice de Calinski-Harabasz**: Mide la densidad y separación de los clústeres. Valores altos sugieren una buena compactación y dispersión entre clústeres.
   - K-means: 310
-  - Jerárquico: 175.8
+  - Hierarchical: 175.8
 
 ## Aplicación de los Modelos
 
@@ -36,6 +36,6 @@ Estos modelos son útiles para crear estrategias de marketing dirigidas, tales c
 
 Cada modelo puede ejecutarse en Jupyter Notebook:
 - **K-means**: `K-means.ipynb`
-- **Jerárquico**: `Hierarchical.ipynb`
+- **Hierarchical**: `Hierarchical.ipynb`
 
 Sigue las instrucciones dentro de cada notebook para ajustar los parámetros y evaluar los resultados.
